@@ -1,0 +1,17 @@
+# Executable files
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Data files
+*.dat
+
+# VS Code temporary files
+tempCodeRunnerFile.cpp
+
+# macOS
+.DS_Store
